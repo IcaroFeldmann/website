@@ -1,24 +1,67 @@
-This is free and unencumbered software released into the public domain.
+Termos de Licença e Uso
+Introdução
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Este Termo de Licença rege o uso do software. Ao utilizar este software, você concorda com os termos e condições estabelecidos:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1- Propriedade Intelectual:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+O Licenciante, autor e desenvolvedor, Icaro Feldmann Fernandes, detém exclusivamente todos os direitos de propriedade intelectual relacionados ao software, incluindo, mas não se limitando a direitos autorais, patentes, marcas registradas e segredos comerciais. O Licenciado reconhece que não adquire nenhum direito de propriedade sobre o software ao aceitar esta licença.
 
-For more information, please refer to <https://unlicense.org>
+
+2 - Concessão de Licença:
+
+O Licenciante concede ao Licenciado o direito de uma licença não exclusiva, individual e única, instransferível e limitada para uso exclusivamente pessoal e não comercial, conforme os termos e condições estabelecidos neste contrato. Esta licença de uso não confere ao Licenciado nenhum direito de propriedade intelectual sobre o software.
+
+
+3 - Restrições:
+
+O usuário não poderá, sem o consentimento prévio e por escrito do desenvolvedor:
+
+• Usar o software para qualquer finalidade comercial.
+• Distribuir, alugar, sublicenciar, vender, ou transferir este software a terceiros.
+• Violar, copiar, descompilar, fazer engenharia reversa, desmontar ou tentar obter o código fonte do software.
+• Modificar, adaptar, traduzir, ou criar trabalhos derivados deste software.
+
+Qualquer uso não autorizado do software será considerado uma violação dos direitos de propriedade intelectual do Licenciante.
+
+
+4 - Limitações de responsabilidade: O desenvolvedor não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou decorrentes do uso ou da incapacidade de utilizar o software.
+
+
+5 - Ausência de suporte: O desenvolvedor não se compromete a fornecer qualquer tipo de suporte técnico ou manutenção para o software.
+
+
+6 - Privacidade e Segurança dos Dados:
+
+• Este software funciona totalmente offline, não necessitando de conexão à internet. O software utiliza um banco de dados embútido ao qual somente o Licenciado ou o Usuário tem acesso.
+• O Licenciante e desenvolvedor não coleta, nem transmite ou possui acesso a quaisquer dados do Licenciado ou Usuário.
+• O software criptografa dados potencialmente sensíveis e gera hash de senhas para proteger os dados do Licenciado ou Usuário.
+• Ao executar o aplicativo, os dados criptografados armazenados no banco de dados são descriptografados para que não haja o risco de corrompimento do banco de dados. Esta medida também serve para evitar perda de desempenho da aplicação. O dados permanecem descriptografados até o usuário encerrar a aplicação normalmente, quando os dados serão criptografados novamente.
+
+
+7 - Resposabilidade do Licenciado ou Usuário:
+
+• O software realiza backups automáticos do banco de dados a cada vez que o aplicativo é encerrado normalmente.
+• O Licenciado ou Usuário tem a opção de realizar backups manuais dos dados armazenados, o que é recomendável, podendo escolher onde salvá-los.
+• Em caso de perda dos dados armazenados, o Licenciado ou Usuário poderá importar seus backups manuais para restaurá-los.
+• O Licenciado ou Usuário é totalmente responsável pela segurança e integridade dos dados inseridos, armazenados, deletados ou processados pelo software.
+• O Licenciante não se responsabiliza por qualquer perda ou dano aos dados do Licenciado ou Usuário, seja por falha nos backups automáticos ou manuais.
+
+
+8 - Uso de Componentes de Terceiros:
+System.Data.SQLite.Core
+• Autor: SQLite Development Team
+• Direitos Autorais: https://www.sqlite.org/copyright.html
+• URL do Projeto: https://system.data.sqlite.org
+• Licença: Domínio Público
+
+Fonte Outfit
+• Autor: © 2021 SmartSheet Inc, Rodrigo Fuenzalida
+• Direitos Autorais: Copyright 2021 The Outfit Project Authores (https://github.com/Outfitio/Outfit-Fonts)
+• Licença: SIL Open Font License
+• Link da Licença: https://scripts.sil.org/OFL
+
+
+9 - Aceitação dos Termos:
+
+Ao utilizar este software, o usuário reconhece que leu, entendeu e concorda com todos os termos de condições desta Licença.
