@@ -28,10 +28,7 @@ Qualquer uso não autorizado do software será considerado uma violação dos di
 4 - Limitações de responsabilidade: O desenvolvedor não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou decorrentes do uso ou da incapacidade de utilizar o software.
 
 
-5 - Ausência de suporte: O desenvolvedor não se compromete a fornecer qualquer tipo de suporte técnico ou manutenção para o software.
-
-
-6 - Privacidade e Segurança dos Dados:
+5 - Privacidade e Segurança dos Dados:
 
 • Este software funciona totalmente offline, não necessitando de conexão à internet. O software utiliza um banco de dados embútido ao qual somente o Licenciado ou o Usuário tem acesso.
 • O Licenciante e desenvolvedor não coleta, nem transmite ou possui acesso a quaisquer dados do Licenciado ou Usuário.
@@ -39,7 +36,7 @@ Qualquer uso não autorizado do software será considerado uma violação dos di
 • Ao executar o aplicativo, os dados criptografados armazenados no banco de dados são descriptografados para que não haja o risco de corrompimento do banco de dados. Esta medida também serve para evitar perda de desempenho da aplicação. O dados permanecem descriptografados até o usuário encerrar a aplicação normalmente, quando os dados serão criptografados novamente.
 
 
-7 - Resposabilidade do Licenciado ou Usuário:
+6 - Resposabilidade do Licenciado ou Usuário:
 
 • O software realiza backups automáticos do banco de dados a cada vez que o aplicativo é encerrado normalmente.
 • O Licenciado ou Usuário tem a opção de realizar backups manuais dos dados armazenados, o que é recomendável, podendo escolher onde salvá-los.
@@ -48,7 +45,7 @@ Qualquer uso não autorizado do software será considerado uma violação dos di
 • O Licenciante não se responsabiliza por qualquer perda ou dano aos dados do Licenciado ou Usuário, seja por falha nos backups automáticos ou manuais.
 
 
-8 - Uso de Componentes de Terceiros:
+7 - Uso de Componentes de Terceiros:
 System.Data.SQLite.Core
 • Autor: SQLite Development Team
 • Direitos Autorais: https://www.sqlite.org/copyright.html
@@ -62,6 +59,6 @@ Fonte Outfit
 • Link da Licença: https://scripts.sil.org/OFL
 
 
-9 - Aceitação dos Termos:
+8 - Aceitação dos Termos:
 
 Ao utilizar este software, o usuário reconhece que leu, entendeu e concorda com todos os termos de condições desta Licença.
